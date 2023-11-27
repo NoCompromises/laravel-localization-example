@@ -1,8 +1,5 @@
 {
-    "name": "laravel/laravel",
-    "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "name": "nocompromises/laravel-localization-example",
     "license": "MIT",
     "require": {
         "php": "^8.1",
